@@ -1,2 +1,2 @@
-pync
+git+git://github.com/SeTeM/pync.git#egg=pync
 pyweechat
