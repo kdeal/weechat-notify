@@ -1,2 +1,2 @@
+git+git://github.com/kdeal/pyweechat.git@version_info_not_function#egg=pyweechat
 git+git://github.com/SeTeM/pync.git#egg=pync
-pyweechat
